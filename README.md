@@ -1,5 +1,21 @@
 # ML For Spending
 An Machine Learning tool, that takes into account the Frequency, Magnitude &amp; Discretion then will Analyse through the transactions and identify potential ways to save. It develops a SPS ( Savings Priority Score ) And then ranks them and outputs to the user. I used my own data :D but please have a look at the following for more information.
+We use Weighted Summation Machine learning:
+
+<img width="624" height="332" alt="image" src="https://github.com/user-attachments/assets/88bcace6-21cf-4ec9-b0b7-dafdaba3a73f" />
+
+This is a simpler approach and uses simple maths to calculate the output. 
+
+# POC / Evidence it works :)
+
+<img width="837" height="636" alt="Screenshot 2025-10-17 at 19 16 44" src="https://github.com/user-attachments/assets/2bb5bfb1-5377-46b4-9b30-c6778404b8f5" />
+
+
+<img width="1190" height="257" alt="Screenshot 2025-10-17 at 19 17 09" src="https://github.com/user-attachments/assets/b649da3e-1a8e-4f4a-b0c5-1ba1947f1ec0" />
+
+Simply read through the code and my comments from here and in the java file to understand the code.
+
+
 
 # 1.1 Class - SpendingCategory
 An enumeration class , These will represent the flexibility of the different types of spending the user does.
@@ -58,6 +74,7 @@ This is more for me and to va;idate my learning but thank you.
 -----------------
 
 I plan to do line by line code review where applicable so keep an eye out :)
+
 
 
 
